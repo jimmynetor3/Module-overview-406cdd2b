@@ -1,0 +1,167 @@
+line#eerste{
+	top: 5%;
+}
+div#relative{
+	position: : relative;
+	text-align: center;
+}
+div#top{
+	margin-top: 36%;
+	font-size: 2em;
+	color: #20c6d7;
+}
+div#absolute{
+	position: absolute;
+	right: 47%;
+    top: 0%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+	border: solid 6px #20c6d7;
+}
+h2#txt1{
+	position: absolute;
+	top: 14%;
+	left: 40.5%;
+	color: white;
+	border: solid 2px #20c6d7;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	background-color: #20c6d7;
+	border-radius: 30px 30px 30px 30px;
+}
+div#relative2{
+	position: : relative;
+	text-align: center;
+}
+div#absolute2{
+	position: absolute;
+	left: 18%;
+    top: 26%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+	border: solid 6px gray;
+}
+h2#txt2{
+	position: absolute;
+	top: 40%;
+	left: 13%;
+	color: white;
+	border: solid 2px gray;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	background-color: gray;
+	border-radius: 30px 30px 30px 30px;
+}
+img{
+	margin-top: 35%;
+}
+div#relative3{
+	position: : relative;
+	text-align: center;
+}
+div#absolute3{
+	position: absolute;
+	right: 18%;
+    top: 26%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+	border: solid 6px gray;
+}
+h2#txt3{
+	position: absolute;
+	top: 40%;
+	right: 15.5%;
+	color: white;
+	border: solid 2px gray;
+	padding-left: 2px;
+	padding-right: 5px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	background-color: gray;
+	border-radius: 30px 30px 30px 30px;
+}
+div#relative4{
+	position: : relative;
+	text-align: center;
+}
+div#absolute4{
+	position: absolute;
+	right: 18%;
+    top: 50%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+	border: solid 6px gray;
+}
+h2#txt4{
+	position: absolute;
+	top: 64%;
+	right: 13%;
+	color: white;
+	border: solid 2px gray;
+	padding-left: 2px;
+	padding-right: 5px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	background-color: gray;
+	border-radius: 30px 30px 30px 30px;
+}
+div#relative5{
+	position: : relative;
+	text-align: center;
+}
+div#absolute5{
+	position: absolute;
+	left: 65%;
+    top: 76%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+	border: solid 6px gray;
+}
+h2#txt5{
+	position: absolute;
+	top:  90%;
+	left: 60%;
+	color: white;
+	border: solid 2px gray;
+	padding-left: 2px;
+	padding-right: 5px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	background-color: gray;
+	border-radius: 30px 30px 30px 30px;
+}
+div#relative6{
+	position: : relative;
+	text-align: center;
+}
+div#absolute6{
+	position: absolute;
+	left: 84.5%;
+    top: 76%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+	border: solid 6px gray;
+}
+h2#txt6{
+	position: absolute;
+	top: 90%;
+	left: 82%;
+	color: white;
+	border: solid 2px gray;
+	padding-left: 2px;
+	padding-right: 5px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	background-color: gray;
+	border-radius: 30px 30px 30px 30px;
+}
